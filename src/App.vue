@@ -1,5 +1,7 @@
-<script setup></script>
+<script setup>
+import IButton from './components/IButton/IButton.vue'
+</script>
 
-<template>Hello Vue!</template>
-
-<style scoped></style>
+<template>
+  <IButton></IButton>
+</template>
